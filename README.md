@@ -11,3 +11,8 @@ Now also includes Dark Mode.
 ## remaining tasks
 
 - Write unit test using jest
+
+## Related projects
+
+- [kar_app](https://github.com/YassLipton/kar_app), a simple quiz web app developped in React.
+- [kar_server](https://github.com/YassLipton/kar_server), the server of the quiz apps.
