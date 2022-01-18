@@ -10,7 +10,7 @@ Now also includes Dark Mode.
 
 You can use the following link to test the app:
 
-[https://appetize.io/app/tznnnb70dja5z9mg3emp1n3fnm?device=iphone8&osVersion=13.7&scale=75](https://appetize.io/app/tznnnb70dja5z9mg3emp1n3fnm?device=iphone8&osVersion=13.7&scale=75)
+[https://appetize.io/app/pt0vtd40pn60kkk6am7a0qdw38?device=iphone8&osVersion=13.7&scale=75](https://appetize.io/app/pt0vtd40pn60kkk6am7a0qdw38?device=iphone8&osVersion=13.7&scale=75)
 
 ## remaining tasks
 
